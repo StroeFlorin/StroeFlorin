@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://stroe.dev/helloworld.svg">
+    <img src="https://stroe.dev/helloworld5.svg">
 </p>
 
 
