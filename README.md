@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+    <img src="https://stroe.dev/helloworld2.svg">
+</p>
 
 <!--
 **StroeFlorin/StroeFlorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img src="https://stroe.dev/helloworld.svg">
+    <img src="https://stroe.dev/helloworld2.svg">
 </p>
