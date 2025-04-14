@@ -6,4 +6,7 @@
     <img src="https://stroe.dev/helloworld5.svg">
 </p>
 
+<br>
+
+![StroeFlorin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StroeFlorin&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
