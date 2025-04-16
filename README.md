@@ -5,5 +5,4 @@
     <img src="https://stroe.dev/welcometomyprofile.svg">
 </p>
 
-![StroeFlorin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StroeFlorin&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
-
+![stroeflorin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stroeflorin&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
