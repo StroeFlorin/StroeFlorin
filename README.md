@@ -21,4 +21,4 @@ I design, build, and ship my own products, from first sketch to App Store launch
 - Twitter / X: **[@florinstroedev](https://twitter.com/florinstroedev)**  
 - Email: **[florin@stroe.dev](mailto:florin@stroe.dev)**
 
-Thanks for stopping by and if you’re curious about 1stDay or want to chat about indie iOS dev, feel free to reach out. 😊
+Thanks for stopping by and if you want to chat about indie iOS dev, feel free to reach out. 😊
