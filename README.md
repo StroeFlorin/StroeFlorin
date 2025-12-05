@@ -14,7 +14,7 @@ I design, build, and ship my own products, from first sketch to App Store launch
 
 <sub>Coming soon on iOS and watchOS.</sub>
 
-## 🌍 Find me online
+## Find me online
 
 - Portfolio: **[stroe.dev](https://stroe.dev)**  
 - LinkedIn: **[Florin Stroe](https://www.linkedin.com/in/stroeflorin/)**  
