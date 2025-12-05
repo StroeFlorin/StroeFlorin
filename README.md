@@ -14,19 +14,6 @@ I design, build, and ship my own products, from first sketch to App Store launch
 
 <sub>Coming soon on iOS and watchOS.</sub>
 
-## 🧪 Other projects
-
-### ⏱ [Pomorin](https://github.com/StroeFlorin/Pomorin)
-A simple and elegant Pomodoro timer for **macOS**.
-
-- Lightweight and focused
-- Built for deep work sessions
-- [⬇️ Download the app](https://github.com/StroeFlorin/Pomorin/releases)
-
-### 🧪 New builds are cooking
-I’m always exploring new concepts and prototypes.  
-Follow along on Twitter/X to see what I’m experimenting with next.
-
 ## 🌍 Find me online
 
 - 🧑‍💻 Portfolio: **[stroe.dev](https://stroe.dev)**  
