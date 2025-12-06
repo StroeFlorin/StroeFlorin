@@ -1,6 +1,6 @@
 # Hi, I'm Florin 👋
 
-Indie iOS developer living in the EU, crafting native apps with **SwiftUI**.  
+iOS developer living in the EU, crafting native apps with **SwiftUI**.  
 I design, build, and ship my own products, from first sketch to App Store launch, with a focus on craft and polish.
 
 ## Currently building
