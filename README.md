@@ -5,7 +5,7 @@ I design, build, and ship my own products, from first sketch to App Store launch
 
 ## Currently building
 
-### 🐱 [1stDay – Your Progress Companion](https://1stday.app)
+### 🐱 [1stDay: Your Progress Companion](https://1stday.app)
 1stDay is a progress companion app that helps you:
 
 - Track small daily wins  
